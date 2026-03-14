@@ -5,3 +5,4 @@
     <scope>test</scope>
 </dependency>
 mvn clean install
+mvn test
