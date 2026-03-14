@@ -3,3 +3,4 @@ project
  │   ├── main/java
  │   └── test/java
  └── pom.xml
+mvn test
