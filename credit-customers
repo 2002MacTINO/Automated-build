@@ -48,3 +48,4 @@ jobs:
     # Step 7: Static Code Analysis with SpotBugs
     - name: Run SpotBugs
       run: mvn com.github.spotbugs:spotbugs-maven-plugin:spotbugs
+mvn clean compile
